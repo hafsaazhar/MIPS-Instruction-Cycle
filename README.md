@@ -1,2 +1,2 @@
 # MIPS-Instruction-Cycle
-MIPS Instruction Cycle using Logisim
+MIPS Instruction Cycle using Logisim.
